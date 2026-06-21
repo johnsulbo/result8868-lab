@@ -1,2 +1,14 @@
 # result8868-lab
-HTML page archive and documentation
+
+HTML 资料页存档
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
